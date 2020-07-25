@@ -37,3 +37,16 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+.reserve {
+     padding-top:20px;
+}
+
+.btnReserve {
+   padding:10px 80px;
+    font-size: 20px;
+}
+
+.reserve {
+    font-family: Arial;
+}
