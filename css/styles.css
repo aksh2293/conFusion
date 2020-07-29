@@ -47,6 +47,19 @@ body{
     font-size: 20px;
 }
 
+.dateandtime {
+    margin-left:-15px;
+    margin-top: 5px;
+}
+
+.cancel {
+    margin-left: -13px;
+}
+
+.btnSubmit {
+            margin-left: 5px;
+        }
+
 .reserve {
     font-family: Arial;
 }
